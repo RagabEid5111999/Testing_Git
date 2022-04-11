@@ -2,3 +2,4 @@ Line On Master
 Line 1 On Test Branch
 Line 2 On Test Branch
 Line 3 On Test Branch after first push
+Line 2 on master
